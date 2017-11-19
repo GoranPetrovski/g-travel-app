@@ -1,0 +1,5 @@
+node_modules
+coverage
+server/dst
+.vscode
+**/.DS_Store
